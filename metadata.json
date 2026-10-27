@@ -1,0 +1,6 @@
+{
+  "name": "FinancialHlthy",
+  "description": "Gestão de gastos conscientes, estabilidade financeira e saúde mental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
